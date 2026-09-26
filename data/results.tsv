@@ -1,0 +1,76 @@
+domain	status	content_type	final_url	keys	envelope	verdict
+akamai.com	403	text/html	https://www.akamai.com/.well-known/http-message-signatures-directory	-1	unparseable	REFUSED
+anthropic.com	404	text/html; charset=utf-8	https://www.anthropic.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+apify.com	404	text/html; charset=utf-8	https://apify.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+app.uniswap.org	200	text/html; charset=utf-8	https://app.uniswap.org/.well-known/http-message-signatures-directory	-1	unparseable	NOT_A_DIRECTORY
+apple.com	404	text/html; charset=iso-8859-1	https://www.apple.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+atlasrepo.com	404	application/json; charset=utf-8	https://atlasrepo.com/.well-known/http-message-signatures-directory	-1	not-a-directory	ABSENT
+bing.com	404	text/html; charset=utf-8	https://www.bing.com:443/.well-known/http-message-signatures-directory?[query removed]	-1	unparseable	ABSENT
+blog.cloudflare.com	404	text/html	https://blog.cloudflare.com/.well-known/http-message-signatures-directory/	-1	unparseable	ABSENT
+brave.com	404	text/html	https://brave.com/.well-known/http-message-signatures-directory/	-1	unparseable	ABSENT
+brightdata.com	404	text/html; charset=utf-8	https://brightdata.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+browser.lexmount.com	404	text/html; charset=utf-8	https://browser.lexmount.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+browserbase.com	200	application/http-message-signatures-directory+json	https://www.browserbase.com/.well-known/http-message-signatures-directory	2	jwk-set	LIVE
+browserless.io	200	application/http-message-signatures-directory; charset=utf-8	https://www.browserless.io/.well-known/http-message-signatures-directory	0	jwk-set	EMPTY
+bytedance.com	200	text/html; charset=utf-8	https://www.bytedance.com/.well-known/http-message-signatures-directory	-1	unparseable	NOT_A_DIRECTORY
+cfdata.lol	404	text/html; charset=utf-8	https://cfdata.lol/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+chatgpt.com	200	application/http-message-signatures-directory+json	https://chatgpt.com/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+claude.ai	404	text/plain; charset=UTF-8	https://claude.ai/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+cloudflare.com	404	text/html; charset=utf-8	https://www.cloudflare.com/.well-known/http-message-signatures-directory/	-1	unparseable	ABSENT
+cohere.com	404	text/html; charset=utf-8	https://cohere.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+commoncrawl.org	404	text/html; charset=utf-8	https://commoncrawl.org/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+developers.cloudflare.com	404	text/html	https://developers.cloudflare.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+diffbot.com	404	text/html	https://www.diffbot.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+duckduckgo.com	404	text/plain; charset=UTF-8	https://duckduckgo.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+fastly.com	404	text/html	https://www.fastly.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+firecrawl.dev	404	text/html; charset=utf-8	https://www.firecrawl.dev/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+gitbook.com	404	text/html; charset=utf-8	https://www.gitbook.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+google.com	404	text/html; charset=UTF-8	https://google.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+http-message-signatures-example.research.cloudflare.com	200	application/http-message-signatures-directory+json	https://http-message-signatures-example.research.cloudflare.com/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+huggingface.co	401	text/html; charset=utf-8	https://huggingface.co/.well-known/http-message-signatures-directory	-1	unparseable	REFUSED
+jitsu.com	404	text/html; charset=utf-8	https://jitsu.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+json-render.dev	404	text/html; charset=utf-8	https://json-render.dev/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+k-watch.onpod.ai	200	text/html	https://k-watch.onpod.ai/.well-known/http-message-signatures-directory	-1	unparseable	NOT_A_DIRECTORY
+librechat.ai	200	application/http-message-signatures-directory+json	https://www.librechat.ai/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+lightpanda.io	404	text/html; charset=utf-8	https://lightpanda.io/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+link.com	404	text/html	https://link.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+matomo.org	404	text/html; charset=UTF-8	https://matomo.org/.well-known/http-message-signatures-directory/	-1	unparseable	ABSENT
+meta.com	200	application/http-message-signatures-directory+json	https://www.meta.com/.well-known/http-message-signatures-directory	3	jwk-set	LIVE
+metagraph.sh	200	application/http-message-signatures-directory+json	https://metagraph.sh/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+mistral.ai	404	text/html; charset=utf-8	https://mistral.ai/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+mpp.dev	404	text/html; charset=utf-8	https://mpp.dev/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+netlify.com	404	text/html; charset=utf-8	https://netlify.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+notte.cc	404	text/html; charset=utf-8	https://www.notte.cc/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+openai.com	404	text/html; charset=utf-8	https://openai.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+openwa.dev	404	text/html; charset=utf-8	https://openwa.dev/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+orchestkit.yonyon.ai	200	application/http-message-signatures-directory+json; charset=utf-8	https://orchestkit.yonyon.ai/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+osada.us	200	application/http-message-signatures-directory+json	https://osada.us/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+oxylabs.io	404	text/html; charset=utf-8	https://oxylabs.io/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+peated.com	429	text/html; charset=utf-8	https://peated.com/.well-known/http-message-signatures-directory	-1	unparseable	HTTP429
+perplexity.ai	404	text/html; charset=UTF-8	https://www.perplexity.ai:443/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+portless.sh	404	text/html; charset=utf-8	https://portless.sh/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+posthog.com	404	text/html; charset=utf-8	https://posthog.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+reacherx.com	200	text/html; charset=utf-8	https://undisputed-olive-85.authkit.app/?[query removed]	-1	unparseable	NOT_A_DIRECTORY
+redbot.org	200	application/http-message-signatures-directory+json	https://redbot.org/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+releases.sh	200	application/http-message-signatures-directory+json	https://releases.sh/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+sbproxy.dev	404	text/html; charset=utf-8	https://sbproxy.dev/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+scrapinghub.com	200	text/html; charset=utf-8	https://www.zyte.com/	-1	unparseable	NOT_A_DIRECTORY
+shopify.com	200	application/http-message-signatures-directory+json	https://www.shopify.com/.well-known/http-message-signatures-directory	1	bare-jwk	LIVE
+shopify.dev	404	text/html; charset=utf-8	https://shopify.dev/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+shramko.dev	429	text/html; charset=utf-8	https://shramko.dev/.well-known/http-message-signatures-directory	-1	unparseable	HTTP429
+specification.website	404	text/html; charset=utf-8	https://specification.website/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+spiritlhl.net	000	none	https://spiritlhl.net/.well-known/http-message-signatures-directory	-1	unparseable	UNREACHABLE
+squirrelscan.com	404	text/html; charset=utf-8	https://squirrelscan.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+stripe.com	404	text/html; charset=utf-8	https://stripe.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+superset.sh	200	application/http-message-signatures-directory+json	https://superset.sh/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+ucp.dev	404	text/html; charset=utf-8	https://ucp.dev/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+unorouter.com	200	application/http-message-signatures-directory+json	https://unorouter.com/.well-known/http-message-signatures-directory	2	jwk-set	LIVE
+usenotra.com	200	application/http-message-signatures-directory+json; charset=utf-8	https://www.usenotra.com/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+vercel.com	404	text/plain;charset=UTF-8	https://vercel.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+whisper.online	200	application/http-message-signatures-directory+json	https://whisper.online/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+workflow-sdk.dev	404	text/html; charset=utf-8	https://workflow-sdk.dev/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+worldmonitor.app	200	application/http-message-signatures-directory+json	https://worldmonitor.app/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+www.cloudflare.com	404	text/html; charset=utf-8	https://www.cloudflare.com/.well-known/http-message-signatures-directory/	-1	unparseable	ABSENT
+x402.org	404	text/html; charset=UTF-8	https://x402.org/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT
+you.com	200	application/http-message-signatures-directory+json	https://you.com/.well-known/http-message-signatures-directory	1	jwk-set	LIVE
+zyte.com	404	text/plain; charset=utf-8	https://www.zyte.com/.well-known/http-message-signatures-directory	-1	unparseable	ABSENT

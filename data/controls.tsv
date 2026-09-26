@@ -1,0 +1,3 @@
+host	homepage_study_ua	wellknown_study_ua	wellknown_browser_ua	nonexistent_wellknown_study_ua
+akamai.com	403	403	403	403
+huggingface.co	200	401	401	401
